@@ -1,0 +1,1 @@
+{    "shell_cmd": "start cmd /c python -u \"$file\" && pause",    "working_dir": "${file_path:${folder}}",    "selector": "source.python"}
